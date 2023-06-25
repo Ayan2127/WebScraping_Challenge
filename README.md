@@ -16,4 +16,6 @@ PART 2:
 
 ---Perform min, max, and avg calculations
 
----Finally, plot data using new df & convert df to csv file
+---Plot data using new df 
+
+---Convert df to a csv file
