@@ -5,6 +5,7 @@
 PART 1: Scrape titles and preview text from Mars news articles using BeautifulSoup.
 
 PART 2: 
+
 ---Scrape and analyze Mars weather data from a website
 
 ---Examine table data including columns using DevTools
